@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/cottonmouth/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/cottonmouth/" rel="alternate" type="text/html" />
-  <updated>2020-02-29T16:30:05-05:00</updated>
+  <updated>2020-03-03T22:05:53-05:00</updated>
   <id>http://localhost:4000/cottonmouth/tag/getting-started/feed.xml</id>
 
   
@@ -49,7 +49,7 @@
       <published>2017-07-27T06:00:00-04:00</published>
       <updated>2017-07-27T06:00:00-04:00</updated>
       <id>http://localhost:4000/cottonmouth/welcome</id>
-      <content type="html" xml:base="http://localhost:4000/cottonmouth/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/cottonmouth/welcome">&lt;p&gt;Hey! Welcome to Grhost, it’s great to have you :)&lt;/p&gt;
 
 &lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
 
@@ -85,7 +85,7 @@
       
 
       
-        <summary type="html">Hey! Welcome to Ghost, it’s great to have you :)</summary>
+        <summary type="html">Hey! Welcome to Grhost, it’s great to have you :)</summary>
       
 
       
