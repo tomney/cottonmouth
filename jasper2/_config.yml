@@ -9,9 +9,9 @@ words_per_minute: 200
 baseurl: /cottonmouth/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
+title: cell_the_team
+description: Dumb takes on basketball w/ python
+cover: assets/images/blog-cover.png
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
@@ -24,8 +24,8 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: tomney # replace by your username
+facebook: tomney # replace by your username
 
 # Disqus
 disqus: False

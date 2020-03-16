@@ -1,10 +1,10 @@
-ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
-  bio: The professional publishing platform
-  picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
+tomney:
+  username: tomney
+  name: tomney
+  url_full: https://tomney.github.io/cottonmouth/
+  url: tomney.github.io/cottonmouth/
+  bio: A guy who writes the stuff here
+  picture: assets/images/greg.png
+  facebook: Cell_the_team-106808507616639
+  twitter: gregtomney
   cover: False
