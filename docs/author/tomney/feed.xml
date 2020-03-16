@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/cottonmouth/author/tomney/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/cottonmouth/" rel="alternate" type="text/html" />
+  <link href="https://tomney.github.io/cottonmouth/author/tomney/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://tomney.github.io/cottonmouth/" rel="alternate" type="text/html" />
   <updated>2020-03-15T21:52:28-04:00</updated>
-  <id>http://localhost:4000/cottonmouth/author/tomney/feed.xml</id>
+  <id>https://tomney.github.io/cottonmouth/author/tomney/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Welcome to Ghost</title>
-      <link href="http://localhost:4000/cottonmouth/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
+      <link href="https://tomney.github.io/cottonmouth/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
       <published>2017-07-27T06:00:00-04:00</published>
       <updated>2017-07-27T06:00:00-04:00</updated>
-      <id>http://localhost:4000/cottonmouth/welcome</id>
-      <content type="html" xml:base="http://localhost:4000/cottonmouth/welcome">&lt;p&gt;Hey! Welcome to Grhost, it’s great to have you :)&lt;/p&gt;
+      <id>https://tomney.github.io/cottonmouth/welcome</id>
+      <content type="html" xml:base="https://tomney.github.io/cottonmouth/welcome">&lt;p&gt;Hey! Welcome to Grhost, it’s great to have you :)&lt;/p&gt;
 
 &lt;p&gt;There’s nothing here right now. But thats okay.&lt;/p&gt;</content>
 
