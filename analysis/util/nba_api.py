@@ -1,4 +1,6 @@
+
 import http.client
+from json import load
 
 CONN = http.client.HTTPSConnection("free-nba.p.rapidapi.com")
 
@@ -12,4 +14,5 @@ def get_paged_stats(page: int, page_size: int):
     CONN.request("GET", f"/stats?page={page}&per_page={page_size}", headers=HEADERS)
 
     res = CONN.getresponse()
-    data = res.read()
+    data = load(res)
+    return data
