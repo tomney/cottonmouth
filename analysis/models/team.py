@@ -2,7 +2,7 @@ from typing import TypedDict
 
 
 class Team(TypedDict):
-    id: int
+    external_id: int
     abbreviation: str
     city: str
     conference: str

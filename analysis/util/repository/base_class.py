@@ -1,7 +1,8 @@
 from abc import ABC, abstractmethod
 
-class Repository(abstractmethod):
+
+class Repository(ABC):
 
     @abstractmethod
-    def write():
+    def write(self):
         pass

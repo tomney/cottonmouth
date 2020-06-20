@@ -2,9 +2,9 @@ from typing import TypedDict
 
 
 class Game(TypedDict):
-    id: int
+    external_id: int
     date: str
-    home_team_id: int
+    external_home_team_id: int
     home_team_score: int
     period: int
     postseason: bool
@@ -12,7 +12,7 @@ class Game(TypedDict):
     # TODO: make enum
     status: str
     time: str
-    visitor_team_id: int
+    external_visitor_team_id: int
     visitor_team_score: int
 
 
@@ -24,7 +24,6 @@ class GameRepo(TypedDict):
     period: int
     postseason: bool
     season: int
-    # TODO: make enum
     status: str
     time: str
     visitor_team_id: int
