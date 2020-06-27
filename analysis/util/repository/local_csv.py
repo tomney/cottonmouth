@@ -10,5 +10,4 @@ class LocalCsv(Repository):
             writer = csv.writer(local_file, delimiter=",")
             writer.writerow(input[0].keys())
             for datum in input:
-                breakpoint()
                 writer.writerow(datum.values())

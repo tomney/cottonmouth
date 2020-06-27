@@ -1,8 +1,35 @@
 from typing import TypedDict
 
-from game import Game
-from player import Player
-from team import Team
+from models.game import Game
+from models.player import Player
+from models.team import Team
+
+
+PlayerGameMap = {
+    "id": None,
+    "ast": None,
+    "blk": None,
+    "dreb": None,
+    "fg3_pct": None,
+    "fg3a": None,
+    "fg3m": None,
+    "fg_pct": None,
+    "fga": None,
+    "fgm": None,
+    "ft_pct": None,
+    "fta": None,
+    "ftm": None,
+    "min": None,
+    "oreb": None,
+    "pf": None,
+    "pts": None,
+    "reb": None,
+    "stl": None,
+    "turnover": None,
+    "team": ("team", "id"),
+    "player": ("player", "id"),
+    "game": ("game", "id"),
+}
 
 
 class PlayerGame(TypedDict):
